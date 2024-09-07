@@ -1,0 +1,10 @@
+agentpy==0.1.4
+pathfinding==0.0.1
+matplotlib==3.7.1
+owlready2==0.36
+IPython==8.12.0
+requests==2.31.0
+Flask==2.3.3
+python-dotenv==1.0.0
+ultralytics==8.0.30
+opencv-python==4.8.0.76
