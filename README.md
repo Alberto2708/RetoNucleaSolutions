@@ -2,6 +2,14 @@
 
 Este proyecto contiene un script para instalar las dependencias desde el archivo `requirements.txt` y cambiar el path según la computadora en donde se ejecute.
 
+Información del equipo: 
+Jessica Odette Guizado Hernández A01643724
+Santos Alejandro Arellano Olarte A01643742
+Luz Patricia Hernández Ramírez A01637277
+Carlos Alberto Mentado Reyes A01276065
+Ángel Eduardo Esquivel Vega A01276114
+
+
 ## Instrucciones de instalación
 
 ### 1. Activa el entorno virtual
